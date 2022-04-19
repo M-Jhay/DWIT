@@ -15,7 +15,7 @@ function calculate(){
     }
 }
 
-function clear(){
+function Clear(){
     outputScreen.value = "";
 }
 
